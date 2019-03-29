@@ -1,2 +1,0 @@
-# Rust
-Beginner Rust programs.
